@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/quannpm.assignment">
+    <Resource name="JB007" auth="Container" type="javax.sql.DataSource"
+                driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
+                url="jdbc:sqlserver://localhost:1433;databaseName=PRJ321Test"
+                username="quannpm" password="admin"/>
+</Context>

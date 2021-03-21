@@ -1,0 +1,13 @@
+login.html;login.html
+login;LoginServlet
+search;SearchLastNameServlet
+delete;DeleteAccountServlet
+update;UpdateAccountServlet
+logout;LogoutServlet
+bookStore;ShowBookListServlet
+addToCart;AddBookToCartServlet
+viewCart;viewCart.jsp
+checkout;AddOrderServlet
+removeBook;RemoveBookFromCartServlet
+createAccount;CreateAccountServlet
+createNewAccount.html;createNewAccount.html
