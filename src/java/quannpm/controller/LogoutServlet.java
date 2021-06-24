@@ -38,6 +38,9 @@ public class LogoutServlet extends HttpServlet {
             if(session != null){
                 session.invalidate();
             }
+            else{
+                System.out.println("Hello");
+            }
         }
         finally{
             response.sendRedirect(url);
